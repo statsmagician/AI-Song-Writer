@@ -1,5 +1,5 @@
 # AI Song Writer
-<br>Always wondered what a love song written by AI would be like? <br>You finally have an answer!
+Always wondered what a love song written by AI would be like? <br>You finally have an answer!
 By using a Long Short Term Memeory Neural Network, we were able to train our model on song lyrics from various artists
 and create new songs in their style. After training and generating text, we run spell check using a dictionary of the artist's 
 spelling.<br>*No robots were harmed in the making of this.*
@@ -12,9 +12,10 @@ following link. Simply update the link in the script generatelyrics.py and you c
 >"I am the sun" - BeatlesBot
 
 link: https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics
-Special thanks to Gyanendra Mishra for scraping the lyrics for us.
+<br>Special thanks to Gyanendra Mishra for scraping the lyrics for us.
 
 **Coming Soon**
+
 -75% Complete: Scaper for grabbing the lyrics from new artists on metrolyrics.com
-<br>-Performance updates for generateLyrics.py
-<br>-Website with push button for getting lyrics
+-Performance updates for generateLyrics.py
+-Website with push button for getting lyrics

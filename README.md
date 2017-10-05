@@ -10,3 +10,8 @@ following link. Simply update the link in the script generatelyrics.py and you c
 
 <p>link: https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics</p>
 <p> Special thanks to Gyanendra Mishra for scraping the lyrics for us.</p>
+
+<strong>Coming Soon</strong>
+<p>-Scaper for grabbing the lyrics from new artists on metrolyrics.com
+<br>-Performance updates for generateLyrics.py
+<br>-Website with push button for getting lyrics</p>

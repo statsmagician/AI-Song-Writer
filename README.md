@@ -9,4 +9,4 @@ create interesting new styles. We are unable to upload the metrolyrics.csv file,
 following link. Simply update the link in the script generatelyrics.py and you can generate your very own music!</p>
 
 <p>link: https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics</p>
-<p> Special thanks to GyanendraMishra for scraping the lyrics for us.</p>
+<p> Special thanks to Gyanendra Mishra for scraping the lyrics for us.</p>
